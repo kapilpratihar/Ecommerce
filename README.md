@@ -36,4 +36,4 @@ _fill each filed with your info respectively_
 
 ## Author
 
-**LinkedIn** Click [Here](https://www.linkedin.com/in/kapil-pratihar-669b75237/) **@meAbhiSingh**
+**LinkedIn** Click [Here](https://www.linkedin.com/in/kapil-pratihar-669b75237/) **kapilpratihar**
