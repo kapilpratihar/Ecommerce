@@ -15,9 +15,13 @@ const categories = [
   "Footwear",
   "Bottom",
   "Tops",
-  "actress",
+  "attire",
   "Camera",
   "SmartPhones",
+  "Food items",
+  "Clock",
+  "Bag",
+  "Electronics Item"
 ];
 
 const Products = ({ match }) => {
